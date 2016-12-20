@@ -1,0 +1,18 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Node Modules
+node_modules
+
+# Ignore dist files
+public
+
+.env
+.DS_Store
+
+
+
+
